@@ -1,0 +1,3 @@
+# Launch every minute over even hours
+# Replace * *
+1 * * * * cd /home/*user*/*folder*/ && /usr/bin/env python3 /home/*user*/*folder*/run.py >> crontab-log.txt 2>&1
