@@ -1,2 +1,0 @@
-filename: %Y-%m-%d %H:%M:%S
-logfile content: relayed tweet
